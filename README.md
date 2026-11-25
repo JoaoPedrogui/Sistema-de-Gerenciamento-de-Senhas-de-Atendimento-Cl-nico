@@ -59,6 +59,4 @@ Gestante: Sim
 
 Resultado: P001
 
-## Autor
-Projeto desenvolvido para atividade acadêmica
-de programação em linguagem C.
+
